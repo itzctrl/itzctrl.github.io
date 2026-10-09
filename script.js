@@ -2,25 +2,21 @@
   const cfg = window.SITE_CONFIG || {};
   const $ = (id) => document.getElementById(id);
 
-  /* Page setup from config */
   $("year").textContent = new Date().getFullYear();
   $("mainLink").href = cfg.LINK_URL || "#";
   $("mainLinkLabel").textContent = cfg.LINK_LABEL || "Visit";
 
-  /* Scroll reveal */
   const io = new IntersectionObserver((entries) => {
     entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } });
   }, { threshold: 0.12 });
   document.querySelectorAll(".reveal").forEach((el) => io.observe(el));
 
-  /* Cursor glow */
   const glow = $("glow");
   window.addEventListener("pointermove", (e) => {
     glow.style.left = e.clientX + "px";
     glow.style.top = e.clientY + "px";
   }, { passive: true });
 
-  /* Discord popup */
   const modal = $("discordModal");
   const idOk = cfg.DISCORD_ID && !cfg.DISCORD_ID.startsWith("YOUR_");
   $("modalHandle").textContent = "@" + (cfg.DISCORD_USERNAME || "");
