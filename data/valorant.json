@@ -1,1 +1,127 @@
-{"status":"pending"}
+{
+  "player": {
+    "name": "itzctrl",
+    "tag": "ttv"
+  },
+  "rank": {
+    "tier": "Ascendant 2",
+    "tierId": 22,
+    "rr": 9,
+    "lastChange": -19,
+    "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
+    "leaderboard": null
+  },
+  "peak": {
+    "tier": "Immortal 2",
+    "tierId": 25
+  },
+  "games": [
+    {
+      "result": "L",
+      "map": "Haven",
+      "score": "5-13",
+      "agent": "Phoenix",
+      "kills": 5,
+      "deaths": 11,
+      "assists": 1,
+      "startedAt": "2026-11-13T20:00:11.598Z"
+    },
+    {
+      "result": "W",
+      "map": "Abyss",
+      "score": "13-7",
+      "agent": "Iso",
+      "kills": 17,
+      "deaths": 12,
+      "assists": 6,
+      "startedAt": "2026-11-13T19:22:41.454Z"
+    },
+    {
+      "result": "L",
+      "map": "Lotus",
+      "score": "10-13",
+      "agent": "Fade",
+      "kills": 18,
+      "deaths": 18,
+      "assists": 13,
+      "startedAt": "2026-11-13T18:47:06.54Z"
+    },
+    {
+      "result": "W",
+      "map": "Bind",
+      "score": "13-10",
+      "agent": "Deadlock",
+      "kills": 18,
+      "deaths": 12,
+      "assists": 5,
+      "startedAt": "2026-11-13T01:51:02.069Z"
+    },
+    {
+      "result": "L",
+      "map": "Corrode",
+      "score": "10-13",
+      "agent": "Chamber",
+      "kills": 18,
+      "deaths": 19,
+      "assists": 5,
+      "startedAt": "2026-11-13T01:07:42.145Z"
+    },
+    {
+      "result": "L",
+      "map": "Haven",
+      "score": "9-13",
+      "agent": "Reyna",
+      "kills": 14,
+      "deaths": 19,
+      "assists": 2,
+      "startedAt": "2026-11-13T00:30:48.241Z"
+    },
+    {
+      "result": "W",
+      "map": "Haven",
+      "score": "16-14",
+      "agent": "Yoru",
+      "kills": 24,
+      "deaths": 22,
+      "assists": 5,
+      "startedAt": "2026-11-12T23:41:05.851Z"
+    },
+    {
+      "result": "L",
+      "map": "Bind",
+      "score": "2-13",
+      "agent": "Clove",
+      "kills": 9,
+      "deaths": 15,
+      "assists": 5,
+      "startedAt": "2026-11-08T20:09:40.256Z"
+    },
+    {
+      "result": "W",
+      "map": "Corrode",
+      "score": "13-6",
+      "agent": "Hush",
+      "kills": 7,
+      "deaths": 13,
+      "assists": 10,
+      "startedAt": "2026-11-08T19:37:58.941Z"
+    },
+    {
+      "result": "L",
+      "map": "Abyss",
+      "score": "11-13",
+      "agent": "Chamber",
+      "kills": 30,
+      "deaths": 14,
+      "assists": 4,
+      "startedAt": "2026-11-08T16:56:30.704Z"
+    }
+  ],
+  "summary": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0
+  },
+  "lastMatchAt": "2026-11-13T20:00:11.598Z",
+  "updatedAt": "2026-11-14T00:41:32.303Z"
+}
