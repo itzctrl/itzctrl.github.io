@@ -6,8 +6,8 @@
   "rank": {
     "tier": "Ascendant 2",
     "tierId": 22,
-    "rr": 8,
-    "lastChange": -21,
+    "rr": 28,
+    "lastChange": 20,
     "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
     "leaderboard": null
   },
@@ -16,6 +16,16 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "W",
+      "map": "Abyss",
+      "score": "13-9",
+      "agent": "Iso",
+      "kills": 33,
+      "deaths": 15,
+      "assists": 2,
+      "startedAt": "2026-11-14T18:57:42.807Z"
+    },
     {
       "result": "L",
       "map": "Corrode",
@@ -105,23 +115,13 @@
       "deaths": 22,
       "assists": 5,
       "startedAt": "2026-11-12T23:41:05.851Z"
-    },
-    {
-      "result": "L",
-      "map": "Bind",
-      "score": "2-13",
-      "agent": "Clove",
-      "kills": 9,
-      "deaths": 15,
-      "assists": 5,
-      "startedAt": "2026-11-08T20:09:40.256Z"
     }
   ],
   "summary": {
-    "wins": 4,
-    "losses": 6,
+    "wins": 5,
+    "losses": 5,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-14T18:32:20.025Z",
-  "updatedAt": "2026-11-14T19:02:20.172Z"
+  "lastMatchAt": "2026-11-14T18:57:42.807Z",
+  "updatedAt": "2026-11-14T22:55:27.041Z"
 }
