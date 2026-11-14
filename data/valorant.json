@@ -6,8 +6,8 @@
   "rank": {
     "tier": "Ascendant 2",
     "tierId": 22,
-    "rr": 9,
-    "lastChange": -19,
+    "rr": 8,
+    "lastChange": -21,
     "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
     "leaderboard": null
   },
@@ -16,6 +16,26 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "L",
+      "map": "Corrode",
+      "score": "2-13",
+      "agent": "Clove",
+      "kills": 10,
+      "deaths": 17,
+      "assists": 2,
+      "startedAt": "2026-11-14T18:32:20.025Z"
+    },
+    {
+      "result": "W",
+      "map": "Summit",
+      "score": "13-5",
+      "agent": "Chamber",
+      "kills": 17,
+      "deaths": 11,
+      "assists": 3,
+      "startedAt": "2026-11-14T17:59:52.835Z"
+    },
     {
       "result": "L",
       "map": "Haven",
@@ -95,26 +115,6 @@
       "deaths": 15,
       "assists": 5,
       "startedAt": "2026-11-08T20:09:40.256Z"
-    },
-    {
-      "result": "W",
-      "map": "Corrode",
-      "score": "13-6",
-      "agent": "Hush",
-      "kills": 7,
-      "deaths": 13,
-      "assists": 10,
-      "startedAt": "2026-11-08T19:37:58.941Z"
-    },
-    {
-      "result": "L",
-      "map": "Abyss",
-      "score": "11-13",
-      "agent": "Chamber",
-      "kills": 30,
-      "deaths": 14,
-      "assists": 4,
-      "startedAt": "2026-11-08T16:56:30.704Z"
     }
   ],
   "summary": {
@@ -122,6 +122,6 @@
     "losses": 6,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-13T20:00:11.598Z",
-  "updatedAt": "2026-11-14T00:41:32.303Z"
+  "lastMatchAt": "2026-11-14T18:32:20.025Z",
+  "updatedAt": "2026-11-14T19:02:20.172Z"
 }
