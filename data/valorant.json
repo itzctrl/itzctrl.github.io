@@ -6,8 +6,8 @@
   "rank": {
     "tier": "Ascendant 2",
     "tierId": 22,
-    "rr": 28,
-    "lastChange": 20,
+    "rr": 84,
+    "lastChange": 18,
     "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
     "leaderboard": null
   },
@@ -16,6 +16,36 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "W",
+      "map": "Lotus",
+      "score": "13-9",
+      "agent": "Fade",
+      "kills": 16,
+      "deaths": 15,
+      "assists": 12,
+      "startedAt": "2026-11-16T18:44:22.818Z"
+    },
+    {
+      "result": "W",
+      "map": "Corrode",
+      "score": "14-12",
+      "agent": "Clove",
+      "kills": 28,
+      "deaths": 18,
+      "assists": 11,
+      "startedAt": "2026-11-16T17:59:50.153Z"
+    },
+    {
+      "result": "W",
+      "map": "Haven",
+      "score": "13-9",
+      "agent": "Reyna",
+      "kills": 12,
+      "deaths": 18,
+      "assists": 6,
+      "startedAt": "2026-11-16T17:26:49.619Z"
+    },
     {
       "result": "W",
       "map": "Abyss",
@@ -85,43 +115,13 @@
       "deaths": 12,
       "assists": 5,
       "startedAt": "2026-11-13T01:51:02.069Z"
-    },
-    {
-      "result": "L",
-      "map": "Corrode",
-      "score": "10-13",
-      "agent": "Chamber",
-      "kills": 18,
-      "deaths": 19,
-      "assists": 5,
-      "startedAt": "2026-11-13T01:07:42.145Z"
-    },
-    {
-      "result": "L",
-      "map": "Haven",
-      "score": "9-13",
-      "agent": "Reyna",
-      "kills": 14,
-      "deaths": 19,
-      "assists": 2,
-      "startedAt": "2026-11-13T00:30:48.241Z"
-    },
-    {
-      "result": "W",
-      "map": "Haven",
-      "score": "16-14",
-      "agent": "Yoru",
-      "kills": 24,
-      "deaths": 22,
-      "assists": 5,
-      "startedAt": "2026-11-12T23:41:05.851Z"
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 5,
+    "wins": 7,
+    "losses": 3,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-14T18:57:42.807Z",
-  "updatedAt": "2026-11-14T22:55:27.041Z"
+  "lastMatchAt": "2026-11-16T18:44:22.818Z",
+  "updatedAt": "2026-11-17T00:58:18.635Z"
 }
