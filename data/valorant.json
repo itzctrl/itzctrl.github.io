@@ -6,8 +6,8 @@
   "rank": {
     "tier": "Ascendant 2",
     "tierId": 22,
-    "rr": 85,
-    "lastChange": 19,
+    "rr": 68,
+    "lastChange": 18,
     "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
     "leaderboard": null
   },
@@ -16,6 +16,56 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "W",
+      "map": "Bind",
+      "score": "13-11",
+      "agent": "Clove",
+      "kills": 18,
+      "deaths": 22,
+      "assists": 10,
+      "startedAt": "2026-11-19T09:59:21.563Z"
+    },
+    {
+      "result": "L",
+      "map": "Bind",
+      "score": "8-13",
+      "agent": "Chamber",
+      "kills": 16,
+      "deaths": 16,
+      "assists": 2,
+      "startedAt": "2026-11-19T09:25:48.817Z"
+    },
+    {
+      "result": "W",
+      "map": "Sunset",
+      "score": "4-1",
+      "agent": "Reyna",
+      "kills": 5,
+      "deaths": 4,
+      "assists": 1,
+      "startedAt": "2026-11-19T09:12:22.577Z"
+    },
+    {
+      "result": "L",
+      "map": "Lotus",
+      "score": "9-13",
+      "agent": "Clove",
+      "kills": 11,
+      "deaths": 18,
+      "assists": 6,
+      "startedAt": "2026-11-19T08:34:57.609Z"
+    },
+    {
+      "result": "L",
+      "map": "Haven",
+      "score": "3-13",
+      "agent": "Clove",
+      "kills": 8,
+      "deaths": 18,
+      "assists": 3,
+      "startedAt": "2026-11-19T08:03:13.539Z"
+    },
     {
       "result": "W",
       "map": "Summit",
@@ -65,63 +115,13 @@
       "deaths": 18,
       "assists": 6,
       "startedAt": "2026-11-16T17:26:49.619Z"
-    },
-    {
-      "result": "W",
-      "map": "Abyss",
-      "score": "13-9",
-      "agent": "Iso",
-      "kills": 33,
-      "deaths": 15,
-      "assists": 2,
-      "startedAt": "2026-11-14T18:57:42.807Z"
-    },
-    {
-      "result": "L",
-      "map": "Corrode",
-      "score": "2-13",
-      "agent": "Clove",
-      "kills": 10,
-      "deaths": 17,
-      "assists": 2,
-      "startedAt": "2026-11-14T18:32:20.025Z"
-    },
-    {
-      "result": "W",
-      "map": "Summit",
-      "score": "13-5",
-      "agent": "Chamber",
-      "kills": 17,
-      "deaths": 11,
-      "assists": 3,
-      "startedAt": "2026-11-14T17:59:52.835Z"
-    },
-    {
-      "result": "L",
-      "map": "Haven",
-      "score": "5-13",
-      "agent": "Phoenix",
-      "kills": 5,
-      "deaths": 11,
-      "assists": 1,
-      "startedAt": "2026-11-13T20:00:11.598Z"
-    },
-    {
-      "result": "W",
-      "map": "Abyss",
-      "score": "13-7",
-      "agent": "Iso",
-      "kills": 17,
-      "deaths": 12,
-      "assists": 6,
-      "startedAt": "2026-11-13T19:22:41.454Z"
     }
   ],
   "summary": {
-    "wins": 7,
-    "losses": 3,
+    "wins": 6,
+    "losses": 4,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-19T00:08:20.676Z",
-  "updatedAt": "2026-11-19T04:07:59.691Z"
+  "lastMatchAt": "2026-11-19T09:59:21.563Z",
+  "updatedAt": "2026-11-19T12:55:21.190Z"
 }
