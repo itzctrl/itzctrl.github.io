@@ -6,8 +6,8 @@
   "rank": {
     "tier": "Ascendant 2",
     "tierId": 22,
-    "rr": 84,
-    "lastChange": 18,
+    "rr": 85,
+    "lastChange": 19,
     "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
     "leaderboard": null
   },
@@ -16,6 +16,26 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "W",
+      "map": "Summit",
+      "score": "13-6",
+      "agent": "Chamber",
+      "kills": 20,
+      "deaths": 10,
+      "assists": 4,
+      "startedAt": "2026-11-19T00:08:20.676Z"
+    },
+    {
+      "result": "L",
+      "map": "Sunset",
+      "score": "10-13",
+      "agent": "Jett",
+      "kills": 12,
+      "deaths": 18,
+      "assists": 7,
+      "startedAt": "2026-11-18T23:32:14.448Z"
+    },
     {
       "result": "W",
       "map": "Lotus",
@@ -95,26 +115,6 @@
       "deaths": 12,
       "assists": 6,
       "startedAt": "2026-11-13T19:22:41.454Z"
-    },
-    {
-      "result": "L",
-      "map": "Lotus",
-      "score": "10-13",
-      "agent": "Fade",
-      "kills": 18,
-      "deaths": 18,
-      "assists": 13,
-      "startedAt": "2026-11-13T18:47:06.54Z"
-    },
-    {
-      "result": "W",
-      "map": "Bind",
-      "score": "13-10",
-      "agent": "Deadlock",
-      "kills": 18,
-      "deaths": 12,
-      "assists": 5,
-      "startedAt": "2026-11-13T01:51:02.069Z"
     }
   ],
   "summary": {
@@ -122,6 +122,6 @@
     "losses": 3,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-16T18:44:22.818Z",
-  "updatedAt": "2026-11-17T00:58:18.635Z"
+  "lastMatchAt": "2026-11-19T00:08:20.676Z",
+  "updatedAt": "2026-11-19T04:07:59.691Z"
 }
