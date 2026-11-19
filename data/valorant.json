@@ -7,7 +7,7 @@
     "tier": "Ascendant 2",
     "tierId": 22,
     "rr": 68,
-    "lastChange": 18,
+    "lastChange": 19,
     "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
     "leaderboard": null
   },
@@ -16,6 +16,26 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "W",
+      "map": "Abyss",
+      "score": "13-5",
+      "agent": "Chamber",
+      "kills": 12,
+      "deaths": 12,
+      "assists": 3,
+      "startedAt": "2026-11-19T18:48:25.711Z"
+    },
+    {
+      "result": "L",
+      "map": "Sunset",
+      "score": "7-13",
+      "agent": "Reyna",
+      "kills": 9,
+      "deaths": 19,
+      "assists": 2,
+      "startedAt": "2026-11-19T18:16:45.76Z"
+    },
     {
       "result": "W",
       "map": "Bind",
@@ -95,33 +115,13 @@
       "deaths": 15,
       "assists": 12,
       "startedAt": "2026-11-16T18:44:22.818Z"
-    },
-    {
-      "result": "W",
-      "map": "Corrode",
-      "score": "14-12",
-      "agent": "Clove",
-      "kills": 28,
-      "deaths": 18,
-      "assists": 11,
-      "startedAt": "2026-11-16T17:59:50.153Z"
-    },
-    {
-      "result": "W",
-      "map": "Haven",
-      "score": "13-9",
-      "agent": "Reyna",
-      "kills": 12,
-      "deaths": 18,
-      "assists": 6,
-      "startedAt": "2026-11-16T17:26:49.619Z"
     }
   ],
   "summary": {
-    "wins": 6,
-    "losses": 4,
+    "wins": 5,
+    "losses": 5,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-19T09:59:21.563Z",
-  "updatedAt": "2026-11-19T12:55:21.190Z"
+  "lastMatchAt": "2026-11-19T18:48:25.711Z",
+  "updatedAt": "2026-11-19T21:05:51.587Z"
 }
