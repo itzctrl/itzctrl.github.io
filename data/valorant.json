@@ -6,8 +6,8 @@
   "rank": {
     "tier": "Ascendant 3",
     "tierId": 23,
-    "rr": 35,
-    "lastChange": -21,
+    "rr": 0,
+    "lastChange": -28,
     "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/23/largeicon.png",
     "leaderboard": null
   },
@@ -16,6 +16,26 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "L",
+      "map": "Sunset",
+      "score": "4-13",
+      "agent": "Chamber",
+      "kills": 2,
+      "deaths": 4,
+      "assists": 1,
+      "startedAt": "2026-11-21T01:10:36.011Z"
+    },
+    {
+      "result": "L",
+      "map": "Haven",
+      "score": "9-13",
+      "agent": "Reyna",
+      "kills": 10,
+      "deaths": 19,
+      "assists": 1,
+      "startedAt": "2026-11-21T00:31:08.204Z"
+    },
     {
       "result": "L",
       "map": "Corrode",
@@ -95,33 +115,13 @@
       "deaths": 15,
       "assists": 6,
       "startedAt": "2026-11-20T06:38:56.557Z"
-    },
-    {
-      "result": "W",
-      "map": "Abyss",
-      "score": "13-6",
-      "agent": "Iso",
-      "kills": 19,
-      "deaths": 10,
-      "assists": 5,
-      "startedAt": "2026-11-20T06:07:10.546Z"
-    },
-    {
-      "result": "L",
-      "map": "Sunset",
-      "score": "11-13",
-      "agent": "Jett",
-      "kills": 24,
-      "deaths": 17,
-      "assists": 2,
-      "startedAt": "2026-11-20T05:30:10.29Z"
     }
   ],
   "summary": {
-    "wins": 6,
-    "losses": 4,
+    "wins": 5,
+    "losses": 5,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-20T22:43:34.902Z",
-  "updatedAt": "2026-11-21T00:07:52.622Z"
+  "lastMatchAt": "2026-11-21T01:10:36.011Z",
+  "updatedAt": "2026-11-21T06:57:18.561Z"
 }
