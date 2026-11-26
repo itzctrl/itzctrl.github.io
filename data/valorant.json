@@ -4,11 +4,11 @@
     "tag": "ttv"
   },
   "rank": {
-    "tier": "Ascendant 3",
-    "tierId": 23,
-    "rr": 0,
-    "lastChange": -28,
-    "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/23/largeicon.png",
+    "tier": "Ascendant 2",
+    "tierId": 22,
+    "rr": 80,
+    "lastChange": 18,
+    "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
     "leaderboard": null
   },
   "peak": {
@@ -16,6 +16,36 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "W",
+      "map": "Haven",
+      "score": "13-11",
+      "agent": "Chamber",
+      "kills": 14,
+      "deaths": 13,
+      "assists": 5,
+      "startedAt": "2026-11-26T10:01:01.643Z"
+    },
+    {
+      "result": "L",
+      "map": "Corrode",
+      "score": "8-13",
+      "agent": "Phoenix",
+      "kills": 21,
+      "deaths": 17,
+      "assists": 2,
+      "startedAt": "2026-11-26T09:27:39.794Z"
+    },
+    {
+      "result": "L",
+      "map": "Bind",
+      "score": "5-13",
+      "agent": "Clove",
+      "kills": 9,
+      "deaths": 16,
+      "assists": 7,
+      "startedAt": "2026-11-26T08:55:17.859Z"
+    },
     {
       "result": "L",
       "map": "Sunset",
@@ -85,43 +115,13 @@
       "deaths": 18,
       "assists": 4,
       "startedAt": "2026-11-20T09:48:31.251Z"
-    },
-    {
-      "result": "W",
-      "map": "Abyss",
-      "score": "13-8",
-      "agent": "Chamber",
-      "kills": 24,
-      "deaths": 14,
-      "assists": 2,
-      "startedAt": "2026-11-20T09:09:19.179Z"
-    },
-    {
-      "result": "W",
-      "map": "Summit",
-      "score": "13-8",
-      "agent": "Jett",
-      "kills": 14,
-      "deaths": 13,
-      "assists": 2,
-      "startedAt": "2026-11-20T08:34:13.727Z"
-    },
-    {
-      "result": "W",
-      "map": "Haven",
-      "score": "13-10",
-      "agent": "Yoru",
-      "kills": 24,
-      "deaths": 15,
-      "assists": 6,
-      "startedAt": "2026-11-20T06:38:56.557Z"
     }
   ],
   "summary": {
-    "wins": 5,
-    "losses": 5,
+    "wins": 3,
+    "losses": 7,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-21T01:10:36.011Z",
-  "updatedAt": "2026-11-21T06:57:18.561Z"
+  "lastMatchAt": "2026-11-26T10:01:01.643Z",
+  "updatedAt": "2026-11-26T10:58:52.945Z"
 }
