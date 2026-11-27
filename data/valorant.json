@@ -6,8 +6,8 @@
   "rank": {
     "tier": "Ascendant 2",
     "tierId": 22,
-    "rr": 61,
-    "lastChange": -19,
+    "rr": 46,
+    "lastChange": 19,
     "icon": "https://media.valorant-api.com/competitivetiers/03621f52-342b-cf4e-4f86-9350a49c6d04/22/largeicon.png",
     "leaderboard": null
   },
@@ -16,6 +16,56 @@
     "tierId": 25
   },
   "games": [
+    {
+      "result": "W",
+      "map": "Abyss",
+      "score": "13-7",
+      "agent": "Sova",
+      "kills": 22,
+      "deaths": 11,
+      "assists": 4,
+      "startedAt": "2026-11-27T19:17:26.472Z"
+    },
+    {
+      "result": "L",
+      "map": "Summit",
+      "score": "9-13",
+      "agent": "Yoru",
+      "kills": 14,
+      "deaths": 20,
+      "assists": 2,
+      "startedAt": "2026-11-27T18:40:10.283Z"
+    },
+    {
+      "result": "W",
+      "map": "Summit",
+      "score": "13-3",
+      "agent": "Yoru",
+      "kills": 24,
+      "deaths": 6,
+      "assists": 6,
+      "startedAt": "2026-11-27T18:13:50.667Z"
+    },
+    {
+      "result": "L",
+      "map": "Lotus",
+      "score": "10-13",
+      "agent": "Chamber",
+      "kills": 25,
+      "deaths": 15,
+      "assists": 4,
+      "startedAt": "2026-11-27T11:51:45.57Z"
+    },
+    {
+      "result": "L",
+      "map": "Haven",
+      "score": "0-6",
+      "agent": "Yoru",
+      "kills": 2,
+      "deaths": 6,
+      "assists": 2,
+      "startedAt": "2026-11-27T11:40:56.525Z"
+    },
     {
       "result": "L",
       "map": "Corrode",
@@ -65,63 +115,13 @@
       "deaths": 4,
       "assists": 1,
       "startedAt": "2026-11-21T01:10:36.011Z"
-    },
-    {
-      "result": "L",
-      "map": "Haven",
-      "score": "9-13",
-      "agent": "Reyna",
-      "kills": 10,
-      "deaths": 19,
-      "assists": 1,
-      "startedAt": "2026-11-21T00:31:08.204Z"
-    },
-    {
-      "result": "L",
-      "map": "Corrode",
-      "score": "8-13",
-      "agent": "Chamber",
-      "kills": 13,
-      "deaths": 19,
-      "assists": 6,
-      "startedAt": "2026-11-20T22:43:34.902Z"
-    },
-    {
-      "result": "L",
-      "map": "Haven",
-      "score": "11-13",
-      "agent": "Reyna",
-      "kills": 18,
-      "deaths": 19,
-      "assists": 4,
-      "startedAt": "2026-11-20T11:39:07.321Z"
-    },
-    {
-      "result": "L",
-      "map": "Lotus",
-      "score": "6-13",
-      "agent": "Clove",
-      "kills": 14,
-      "deaths": 22,
-      "assists": 7,
-      "startedAt": "2026-11-20T11:04:59.925Z"
-    },
-    {
-      "result": "W",
-      "map": "Bind",
-      "score": "13-11",
-      "agent": "Chamber",
-      "kills": 23,
-      "deaths": 19,
-      "assists": 3,
-      "startedAt": "2026-11-20T10:26:43.501Z"
     }
   ],
   "summary": {
-    "wins": 2,
-    "losses": 8,
+    "wins": 3,
+    "losses": 7,
     "draws": 0
   },
-  "lastMatchAt": "2026-11-26T16:42:22.199Z",
-  "updatedAt": "2026-11-26T19:59:58.926Z"
+  "lastMatchAt": "2026-11-27T19:17:26.472Z",
+  "updatedAt": "2026-11-27T20:06:59.621Z"
 }
